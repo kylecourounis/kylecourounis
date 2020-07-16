@@ -1,4 +1,4 @@
-![Alt Text](https://i.imgur.com/YBqg9JG.gif)
+![Alt Text](https://media0.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
 <!--
 **kyledoescode/kyledoescode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
